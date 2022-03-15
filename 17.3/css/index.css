@@ -1,0 +1,36 @@
+
+.headerdiv{
+    width: 50px;
+    height: 10px;
+    padding: 10px;
+    display: inline-block;
+    background-color: gray;
+    border: 1px solid black;
+    color:white
+}
+
+#sidebar{
+    width: 29%;
+    background-color: blue;
+    float:left;
+    height: 500px;
+}
+#bigright{
+    width:70%;
+    float:left;
+    background-color: green;
+    height: 500px;
+}
+
+#topside{
+    height: 100;
+
+}
+
+#botside{
+    height:400;
+}
+
+#miyaprofile{
+    margin: auto;
+}
